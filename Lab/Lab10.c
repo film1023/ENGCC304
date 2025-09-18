@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
+//เช่น - madam , noon , dad , mom
 int main() {
     char word[100];
     
